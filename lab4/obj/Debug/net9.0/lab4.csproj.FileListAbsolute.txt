@@ -1,0 +1,15 @@
+D:\GitHubPj\Paterni\lab4\bin\Debug\net9.0\lab4.exe
+D:\GitHubPj\Paterni\lab4\bin\Debug\net9.0\lab4.deps.json
+D:\GitHubPj\Paterni\lab4\bin\Debug\net9.0\lab4.runtimeconfig.json
+D:\GitHubPj\Paterni\lab4\bin\Debug\net9.0\lab4.dll
+D:\GitHubPj\Paterni\lab4\bin\Debug\net9.0\lab4.pdb
+D:\GitHubPj\Paterni\lab4\obj\Debug\net9.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubPj\Paterni\lab4\obj\Debug\net9.0\lab4.AssemblyInfoInputs.cache
+D:\GitHubPj\Paterni\lab4\obj\Debug\net9.0\lab4.AssemblyInfo.cs
+D:\GitHubPj\Paterni\lab4\obj\Debug\net9.0\lab4.csproj.CoreCompileInputs.cache
+D:\GitHubPj\Paterni\lab4\obj\Debug\net9.0\lab4.sourcelink.json
+D:\GitHubPj\Paterni\lab4\obj\Debug\net9.0\lab4.dll
+D:\GitHubPj\Paterni\lab4\obj\Debug\net9.0\refint\lab4.dll
+D:\GitHubPj\Paterni\lab4\obj\Debug\net9.0\lab4.pdb
+D:\GitHubPj\Paterni\lab4\obj\Debug\net9.0\lab4.genruntimeconfig.cache
+D:\GitHubPj\Paterni\lab4\obj\Debug\net9.0\ref\lab4.dll

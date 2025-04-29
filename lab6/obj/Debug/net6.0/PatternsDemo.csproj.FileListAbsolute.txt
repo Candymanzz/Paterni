@@ -1,0 +1,13 @@
+D:\GitHubPj\Paterni\lab6\bin\Debug\net6.0\PatternsDemo.exe
+D:\GitHubPj\Paterni\lab6\bin\Debug\net6.0\PatternsDemo.deps.json
+D:\GitHubPj\Paterni\lab6\bin\Debug\net6.0\PatternsDemo.runtimeconfig.json
+D:\GitHubPj\Paterni\lab6\bin\Debug\net6.0\PatternsDemo.dll
+D:\GitHubPj\Paterni\lab6\bin\Debug\net6.0\PatternsDemo.pdb
+D:\GitHubPj\Paterni\lab6\obj\Debug\net6.0\PatternsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubPj\Paterni\lab6\obj\Debug\net6.0\PatternsDemo.csproj.CoreCompileInputs.cache
+D:\GitHubPj\Paterni\lab6\obj\Debug\net6.0\PatternsDemo.sourcelink.json
+D:\GitHubPj\Paterni\lab6\obj\Debug\net6.0\PatternsDemo.dll
+D:\GitHubPj\Paterni\lab6\obj\Debug\net6.0\refint\PatternsDemo.dll
+D:\GitHubPj\Paterni\lab6\obj\Debug\net6.0\PatternsDemo.pdb
+D:\GitHubPj\Paterni\lab6\obj\Debug\net6.0\PatternsDemo.genruntimeconfig.cache
+D:\GitHubPj\Paterni\lab6\obj\Debug\net6.0\ref\PatternsDemo.dll

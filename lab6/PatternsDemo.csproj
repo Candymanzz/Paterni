@@ -11,8 +11,8 @@
 
   <ItemGroup>
     <Compile Include="Program.cs" />
-    <Compile Include="ElectricChargeAdapter\**\*.cs" />
-    <Compile Include="CarFacade\**\*.cs" />
+    <Compile Include="AdapterLibrary\*.cs" />
+    <Compile Include="FacadeLibrary\*.cs" />
   </ItemGroup>
 
 </Project> 
